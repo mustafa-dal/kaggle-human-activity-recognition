@@ -2,5 +2,3 @@ Predicting the activity performed by the person using the body posture values ca
 The objective is to classify activities into one of the six activities performed.
 
 https://www.kaggle.com/datasets/uciml/human-activity-recognition-with-smartphones
-
-My comment;
